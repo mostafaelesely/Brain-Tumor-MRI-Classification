@@ -68,6 +68,8 @@ The training script includes data augmentation techniques such as rotation, widt
 ## Evaluation
 
 After training, the model is evaluated on the test set. The script prints the test loss and accuracy.
+![image](https://github.com/user-attachments/assets/2733a657-efd0-4fe8-8f23-2d1c9143614e)
+
 
 ## Prediction
 
